@@ -1,9 +1,9 @@
-//var name="Emilly Silva";
-//var idade=29;
-//var idade2=10;
-//var frase="japão é o melhor time do mundo";
-//alert(nome+" tem "+ idade +" anos");
-//alert(idade+idade2);*/
+var name="Emilly Silva";
+var idade=29;
+var idade2=10;
+var frase="japão é o melhor time do mundo";
+alert(nome+" tem "+ idade +" anos");
+alert(idade+idade2);
 //console.log(name);
 //console.log(idade+idade2);
 //console.log(frase.replace("Japão"+"Brasil"));
@@ -63,29 +63,37 @@ alert(d.getMonth()+1);
 
 */
 
-function soma(n1,n2){
-  return n1+n2;
+/*function soma(n1, n2) {
+  return n1 + n2;
 }
-function validaIdade(idade){
+function setReplace(frase, nome, nome_nome) {
+   return frase.replace(nome,novo_nome)
+}
+*/
+//alert(soma(5, 10));
+
+
+/*function validaIdade(idade) {
    var validar;
    if (idade>= 18){
        validar = true
    }else{
        validar=false
    }
-}
+} 
+
 
 var idade=prompt("Qual é sua idade?");
 console.log(validaIdade(idade));
-
+*/
 /*function setReplace(frase,name){
    return frase.replase(nome, novo_nome)
 }
 alert(setReplace("vai japão", "japão","Brasil"));
 
-
-alert(soma(5+10));
 */
+
+
 
 
 
